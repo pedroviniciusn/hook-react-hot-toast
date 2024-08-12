@@ -16,7 +16,7 @@ This repository contains a React application that demonstrates the use of the cu
 - **`styles/`:** Includes global styles for the application.
 
 ### How to Use:
-- Clone the repository and install the dependencies or access the [CodeSandbox](https://codesandbox.io/) link.
+- Clone the repository and install the dependencies or access the [CodeSandbox](https://codesandbox.io/p/github/pedroviniciusn/hook-react-hot-toast/main?embed=1) link.
 - Run the application and interact with the buttons to see the different types of notifications in action.
 
 This project is ideal for learning and applying the use of toasts effectively in React applications.
